@@ -3,7 +3,7 @@ meses_o_anos=0
 edad=0
 meses=0
 
-años=10
+años=1200
 
 # leer datos
 

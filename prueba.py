@@ -3,6 +3,7 @@ meses_o_anos=0
 edad=0
 meses=0
 
+años=0
 
 # leer datos
 
